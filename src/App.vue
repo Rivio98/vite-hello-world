@@ -1,11 +1,11 @@
 
 <script>
 import AppTitle from "./components/AppTitle.vue";
-import Cr7Img from "./components/Cr7Img.vue";
+import Cr7 from "./components/Cr7.vue";
 export default{
   components:{
     AppTitle,
-Cr7Img
+  Cr7,
   }
 }
 </script>
@@ -13,10 +13,10 @@ Cr7Img
 <template>
  <main>
   <AppTitle/>
-  <Cr7Img/>
+  <Cr7/>
  </main>
 </template>
 
-<style scoped>
+<style>
 
 </style>
