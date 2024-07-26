@@ -1,9 +1,11 @@
 
 <script>
 import AppTitle from "./components/AppTitle.vue";
+import Cr7Img from "./components/Cr7Img.vue";
 export default{
   components:{
-    AppTitle
+    AppTitle,
+Cr7Img
   }
 }
 </script>
@@ -11,6 +13,7 @@ export default{
 <template>
  <main>
   <AppTitle/>
+  <Cr7Img/>
  </main>
 </template>
 

@@ -3,9 +3,12 @@
 </script>
 <template>
     <div>
-        <h1>La mia prima app con Vite!</h1>
+        <img src="../assets/cr7.jpg">
     </div>
 </template>
+
 <style>
-    
+    img{
+        width: 300px;
+    }
 </style>
